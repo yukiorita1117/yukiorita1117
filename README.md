@@ -13,7 +13,7 @@
 <br />
 
 <div style="display: flex; align-items: center; gap: 16px;">
-<p><img align="" src="https://github-readme-streak-stats.herokuapp.com/?user=yukiorita1117&" alt="yukiorita1117" /></p>
+<!-- <p><img align="" src="https://github-readme-streak-stats.herokuapp.com/?user=yukiorita1117&" alt="yukiorita1117" /></p> -->
 
 <!-- <p>&nbsp;<img align="" src="https://github-readme-stats.vercel.app/api?username=yukiorita1117&show_icons=true&locale=en" alt="yukiorita1117" /></p> -->
 
