@@ -30,9 +30,3 @@ Building polished web experiences with React, Next.js, TypeScript, and modern UI
 </p>
 
 ---
-
-## GitHub Stats
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=yukiorita1117&show_icons=true&theme=transparent&hide_border=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yukiorita1117&layout=compact&theme=transparent&hide_border=true)
