@@ -4,8 +4,6 @@ Software Engineer based in Tokyo 🇯🇵
 
 ![Profile views](https://komarev.com/ghpvc/?username=yukiorita1117&label=Profile%20views&color=0e75b6&style=flat)
 
----
-
 ## Tech Stack
 
 ### Core
